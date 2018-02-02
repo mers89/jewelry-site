@@ -1,0 +1,18 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+.container-fluid{
+	max-width: 320px;
+	margin: 0 auto;	
+}
+
+header{
+	background: url("assets/fog.jpg");
+	background-size: cover;
+	text-align: center;
+}
+
+.img-responsive {
+	width: 100%;
+	max-width: 320px;
+}
